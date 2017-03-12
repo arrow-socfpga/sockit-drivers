@@ -1,0 +1,9 @@
+[Autorun]
+shellexecute=start.htm
+icon=Docs\Micro-SD-Card.ico
+label=Arrow SoCKit
+action=Open Arrow SoCKit
+
+[DeviceInstall]
+DriverPath=Drivers\Windows\CDCACM
+DriverPath=Drivers\Windows\RNDIS
